@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MLP Quizz</string>
+    <string name="title">How much do you know about My Little Pony: Friendship is Magic?</string>
+    <!-- Ponies -->
+    <string name="rainbowdash">Rainbow Dash</string>
+    <string name="applejack">Applejack</string>
+    <string name="rarity">Rarity</string>
+    <string name="fluttershy">Fluttershy</string>
+    <string name="pinkiepie">Pinkie Pie</string>
+    <string name="twilightsparkle">Twilight Sparkle</string>
+    <!-- Question One -->
+    <string name="questionOne">1) Which of these ponies can fly?</string>
+    <!-- Question two -->
+    <string name="questionTwo">2) What\'s the name of the pony Princess?</string>
+    <string name="answerHint">Text your answer here</string>
+    <!-- Question three -->
+    <string name="questionThree">3) Which of the following is Rarity\'s beauty mark?</string>
+    <string name="balloons">Balloons</string>
+    <string name="diamonds">Diamonds</string>
+    <string name="butterflies">Butterflies</string>
+    <!-- Question four -->
+    <string name="questionFour">4) Who is the best party planning pony?</string>
+    <!-- Question five -->
+    <string name="questionFive">5) Which of these ponies are unicorns?</string>
+    <!-- Submit -->
+    <string name="submit">Submit</string>
+    <string name="celestia">celestia</string>
+</resources>
